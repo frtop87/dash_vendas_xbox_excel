@@ -8,7 +8,7 @@
 ![Tabelas Dinâmicas](https://img.shields.io/badge/Tabelas%20Din%C3%A2micas-22C55E)
 ![DIO](https://img.shields.io/badge/DIO-Santander-blue)
 
-![Dashboard] [images/Captura de tela 2026-10-06 231620.png](https://github.com/frtop87/dash_vendas_xbox_excel/blob/main/images/Captura%20de%20tela%202026-10-06%20231620.png)
+![Dashboard](images/Captura de tela 2026-10-06 231620.png](https://github.com/frtop87/dash_vendas_xbox_excel/blob/main/images/Captura%20de%20tela%202026-10-06%20231620.png)
 
 ---
 
