@@ -8,7 +8,7 @@
 ![Tabelas Dinâmicas](https://img.shields.io/badge/Tabelas%20Din%C3%A2micas-22C55E)
 ![DIO](https://img.shields.io/badge/DIO-Santander-blue)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Captura de tela 2026-10-06 231620.png)
 
 ---
 
